@@ -1,2 +1,2 @@
 # Gitlearning
-This repository is for learning git
+Introductory repository is for learning git
